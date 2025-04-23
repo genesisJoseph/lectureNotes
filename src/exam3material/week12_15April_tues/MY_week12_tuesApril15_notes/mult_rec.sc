@@ -18,16 +18,37 @@ def mult(x: Z, y: Z): Z = {
     answer = 0
 
     //what do we need to do here?
+
+
+
+
+
+
   } else {
     //what do we need to do here?
 
+
+
+
+
+
+
     var temp: Z = mult(x, y-1)
     answer = x + temp
+
+
+
 
     //what do we need to show here?
   }
 
   //what do we need to do here?
+
+
+
+
+
+
 
   return answer
 }
